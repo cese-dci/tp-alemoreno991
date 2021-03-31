@@ -1,0 +1,18 @@
+.4208 :1 ;Adafruit Accessories JST SH 4-pin Right Angle Connector (10-pack) - Qwiic Compatible
+"4208"
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN 4208
+~!Manufacturer_Name (Adafruit)
+~!Manufacturer_Part_Number (4208)
+~!Mouser Part Number (485-4208)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Adafruit/4208?qs=PzGy0jfpSMtbScLbr0L5dw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://cdn-shop.adafruit.com/product-files/4208/4208_Kaweei_C13396_diagram.pdf)
+~!Height (3.05mm)
+~!3D_Model (4208)
+"4208"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

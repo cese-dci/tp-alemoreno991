@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '4208'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Adafruit", "4208" (!) = "", "4208", "Other", "485-4208", "https://www.mouser.co.uk/ProductDetail/Adafruit/4208?qs=PzGy0jfpSMtbScLbr0L5dw%3D%3D", "", "", "Adafruit Accessories JST SH 4-pin Right Angle Connector (10-pack) - Qwiic Compatible", "https://cdn-shop.adafruit.com/product-files/4208/4208_Kaweei_C13396_diagram.pdf", "3.05 mm"
+END_PART
+
+END.

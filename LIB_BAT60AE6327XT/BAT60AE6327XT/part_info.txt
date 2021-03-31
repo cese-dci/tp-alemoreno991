@@ -1,0 +1,9 @@
+Manufacturer=Infineon
+PartNumber=BAT60AE6327XT
+PartCategory=Schottky Diode
+PackageCategory=Small Outline Diode
+PinCount=2
+Version=1.2
+Released=2020-12-02 05:06:38
+Downloaded=2021-03-29 00:48:42
+3D=Y

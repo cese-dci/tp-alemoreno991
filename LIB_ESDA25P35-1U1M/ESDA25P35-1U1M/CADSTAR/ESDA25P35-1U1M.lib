@@ -1,0 +1,17 @@
+.ESDA25P35-1U1M :1 ;STMicroelectronics ESDA25P35-1U1M, Uni-Directional TVS Diode, 1400W, 2-Pin QFN
+ESDA8P801U1M
+*STM D
+*NGS
+*PLB 1="A" 2="K"
+*MXP 2
+*DFN ESDA25P35-1U1M
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ESDA25P35-1U1M)
+~!Mouser Part Number (511-ESDA25P35-1U1M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ESDA25P35-1U1M/?qs=aVyJF2WnouQUWqgNP85ZrA%3D%3D)
+~!Arrow Part Number (ESDA25P35-1U1M)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/esda25p35-1u1m/stmicroelectronics)
+~!Link Datasheet (https://www.st.com/resource/en/datasheet/esda25p35-1u1m.pdf)
+~!Height (0mm)
+ESDA25P35-1U1M
+1.1!U 2.1!U 

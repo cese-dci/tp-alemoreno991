@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'BAT60AE6327XT'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Infineon", "BAT60AE6327XT" (!) = "", "SOD2513X110N", "Small Outline Diode", "726-BAT60AE6327XT", "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BAT60AE6327XT?qs=6QXTaorEuHvYJtfKZuSSKg%3D%3D", "", "", "Silicon Schottky Diodes & Rectifiers 10 V 3000 mA", "https://www.mouser.com/datasheet/2/196/bat60aseries-89086.pdf", "1.1 mm"
+END_PART
+
+END.

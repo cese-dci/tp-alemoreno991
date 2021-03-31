@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BAT60AE6327XT
+D Silicon Schottky Diodes & Rectifiers 10 V 3000 mA
+K
+F https://www.mouser.com/datasheet/2/196/bat60aseries-89086.pdf
+$ENDCMP
+#
+#End Doc Library

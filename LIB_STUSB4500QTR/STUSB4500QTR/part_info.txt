@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=STUSB4500QTR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=25
+Version=1.1
+Released=2019-02-01 14:06:58
+Downloaded=2021-03-28 20:45:52
+3D=Y

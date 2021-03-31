@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ESDA8P801U1M"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ESDA8P801U1M")
+        (spec "default")
+    )
+)

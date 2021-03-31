@@ -1,0 +1,9 @@
+Manufacturer=Adafruit
+PartNumber=4208
+PartCategory=Connector
+PackageCategory=Other
+PinCount=6
+Version=1.1
+Released=2019-08-18 22:55:45
+Downloaded=2021-03-29 19:26:56
+3D=Y

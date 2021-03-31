@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_276985"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-02-05:06:38)
+    (utime 2020-12-02-06:25:20)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "BAT60AE6327XT")
+)
+
+
+(pinAssign "ECS_276985"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-02-05:06:38)
+    (utime 2020-12-02-06:25:20)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_276985")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "BAT60AE6327XT")
+)
+
+
+(part "BAT60AE6327XT"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-12-02-05:06:38)
+    (utime 2020-12-02-06:25:20)
+    (packageRef "BAT60AE6327XT")
+    (pinAssignRef "ECS_276985")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Silicon Schottky Diodes & Rectifiers 10 V 3000 mA")
+    (property "Manufacturer_Name" "Infineon")
+    (property "Manufacturer_Part_Number" "BAT60AE6327XT")
+    (property "Mouser_Part_Number" "726-BAT60AE6327XT")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BAT60AE6327XT?qs=6QXTaorEuHvYJtfKZuSSKg%3D%3D")
+    (property "Arrow_Part_Number" "")
+    (property "Arrow_Price/Stock" "")
+    (property "Datasheet_Link" "https://www.mouser.com/datasheet/2/196/bat60aseries-89086.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

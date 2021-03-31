@@ -1,0 +1,18 @@
+.BAT60AE6327XT :1 ;Silicon Schottky Diodes & Rectifiers 10 V 3000 mA
+SOD2513X110N
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN BAT60AE6327XT
+~!Manufacturer_Name (Infineon)
+~!Manufacturer_Part_Number (BAT60AE6327XT)
+~!Mouser Part Number (726-BAT60AE6327XT)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Infineon-Technologies/BAT60AE6327XT?qs=6QXTaorEuHvYJtfKZuSSKg%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://www.mouser.com/datasheet/2/196/bat60aseries-89086.pdf)
+~!Height (1.1mm)
+~!3D_Model (BAT60AE6327XT)
+BAT60AE6327XT
+1.1!U 2.1!U 
