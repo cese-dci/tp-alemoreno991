@@ -1274,7 +1274,7 @@
       (net 37 "Net-(Q1-Pad4)"))
     (pad 5_8 smd rect (at 0.7 0) (size 2.4 2.45) (layers F.Cu)
       (net 6 power_output))
-    (model D:/Universidad/CESE/DCI/Tp_final/3d_models/STL6P3LLH6/STL6P3LLH6.STEP
+    (model ../Bibliotecas/3d_models/STL6P3LLH6/STL6P3LLH6.STEP
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 90))
