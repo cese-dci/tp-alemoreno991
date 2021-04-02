@@ -1,7 +1,7 @@
 (fp_lib_table
-  (lib (name STUSB4500)(type KiCad)(uri D:/Universidad/CESE/DCI/LIB_STUSB4500QTR/STUSB4500QTR/KiCad)(options "")(descr ""))
-  (lib (name BAT60A)(type KiCad)(uri D:/Universidad/CESE/DCI/LIB_BAT60AE6327XT/BAT60AE6327XT/KiCad)(options "")(descr ""))
-  (lib (name QWIIC)(type KiCad)(uri D:/Universidad/CESE/DCI/LIB_4208/4208/KiCad)(options "")(descr ""))
-  (lib (name STL6P3LLH6)(type KiCad)(uri D:/Universidad/CESE/DCI/STL6P3LLH6)(options "")(descr ""))
-  (lib (name ESDA25P35)(type KiCad)(uri D:/Universidad/CESE/DCI/LIB_ESDA25P35-1U1M/ESDA25P35-1U1M/KiCad)(options "")(descr ""))
+  (lib (name STUSB4500)(type KiCad)(uri ../Bibliotecas/LIB_STUSB4500QTR/STUSB4500QTR/KiCad)(options "")(descr ""))
+  (lib (name BAT60A)(type KiCad)(uri ../Bibliotecas/LIB_BAT60AE6327XT/BAT60AE6327XT/KiCad)(options "")(descr ""))
+  (lib (name QWIIC)(type KiCad)(uri ../Bibliotecas/LIB_4208/4208/KiCad)(options "")(descr ""))
+  (lib (name STL6P3LLH6)(type KiCad)(uri ../Bibliotecas/STL6P3LLH6)(options "")(descr ""))
+  (lib (name ESDA25P35)(type KiCad)(uri ../Bibliotecas/LIB_ESDA25P35-1U1M/ESDA25P35-1U1M/KiCad)(options "")(descr ""))
 )

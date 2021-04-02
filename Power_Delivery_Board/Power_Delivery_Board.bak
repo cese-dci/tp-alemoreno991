@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Power_Delivery_Board-cache
 EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
@@ -6,12 +7,12 @@ encoding utf-8
 Sheet 1 1
 Title "Fuente de alimentación USB C"
 Date "2021-03-28"
-Rev ""
+Rev "0"
 Comp "Carrera de Especialización en Sistemas Embebidos"
-Comment1 "Trabajo Final de Diseño de Circuitos Impresos"
-Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment1 "Autor: Alejandro Moreno"
+Comment2 "Autor: Fabiola de las Casas Escardó"
+Comment3 "https://creativecommons.org/license/by-sa/4.0/"
+Comment4 "Released under the Creative Commons Attribution Share-Alike 4.0 Licence"
 $EndDescr
 $Comp
 L stusb4500qtr_custom:STUSB4500QTR IC1
