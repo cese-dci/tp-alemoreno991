@@ -1,7 +1,7 @@
 (fp_lib_table
-  (lib (name STUSB4500)(type KiCad)(uri ../Bibliotecas/LIB_STUSB4500QTR/STUSB4500QTR/KiCad)(options "")(descr ""))
-  (lib (name BAT60A)(type KiCad)(uri ../Bibliotecas/LIB_BAT60AE6327XT/BAT60AE6327XT/KiCad)(options "")(descr ""))
-  (lib (name QWIIC)(type KiCad)(uri ../Bibliotecas/LIB_4208/4208/KiCad)(options "")(descr ""))
-  (lib (name STL6P3LLH6)(type KiCad)(uri ../Bibliotecas/STL6P3LLH6)(options "")(descr ""))
-  (lib (name ESDA25P35)(type KiCad)(uri ../Bibliotecas/LIB_ESDA25P35-1U1M/ESDA25P35-1U1M/KiCad)(options "")(descr ""))
+  (lib (name STUSB4500_custom)(type KiCad)(uri ${KIPRJMOD}/../Bibliotecas/LIB_STUSB4500QTR/STUSB4500QTR/KiCad/stusb4500qtr_custom.lib)(options "")(descr ""))
+  (lib (name BAT60A)(type KiCad)(uri ${KIPRJMOD}/../Bibliotecas/LIB_BAT60AE6327XT/BAT60AE6327XT/KiCad/BAT60AE6327XT.lib)(options "")(descr ""))
+  (lib (name QWIIC)(type KiCad)(uri ${KIPRJMOD}/../Bibliotecas/LIB_4208/4208/KiCad/4208.lib)(options "")(descr ""))
+  (lib (name STL6P3LLH6)(type KiCad)(uri ${KIPRJMOD}/../Bibliotecas/STL6P3LLH6/STL6P3LLH6.lib)(options "")(descr ""))
+  (lib (name ESDA25P35)(type KiCad)(uri ${KIPRJMOD}/../Bibliotecas/LIB_ESDA25P35-1U1M/ESDA25P35-1U1M/KiCad/ESDA25P35-1U1M.lib)(options "")(descr ""))
 )
