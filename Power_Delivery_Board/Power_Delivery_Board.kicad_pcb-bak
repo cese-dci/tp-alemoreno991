@@ -1716,11 +1716,6 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model D:/Universidad/CESE/DCI/Tp_final/Bibliotecas/3d_models/Connector_USB.3dshapes/105450-0101--3DModel-STEP-56544.STEP
-      (offset (xyz 0 -0.5 0))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 0))
-    )
   )
 
   (module MountingHole:MountingHole_2.2mm_M2_ISO14580 (layer F.Cu) (tedit 6088DBF8) (tstamp 6095691B)
