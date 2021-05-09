@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "Fuente de alimentación USB C"
+Title "Réplica SparkFun Power Delivery Board"
 Date "2021-04-28"
-Rev "1"
+Rev "2"
 Comp "Carrera de Especialización en Sistemas Embebidos"
 Comment1 "Autor: Alejandro Moreno"
 Comment2 "Revisor: Fabiola de las Casas Escardó"
